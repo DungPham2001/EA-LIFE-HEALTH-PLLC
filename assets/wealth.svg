@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" role="img" aria-label="Financial planning">
+<defs><linearGradient id="s" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1e3a8a"/><stop offset="1" stop-color="#0b2545"/></linearGradient></defs>
+<rect width="400" height="260" fill="url(#s)"/>
+<circle cx="340" cy="40" r="80" fill="#fff" opacity=".08"/><circle cx="40" cy="240" r="90" fill="#fff" opacity=".07"/>
+<rect x="110" y="140" width="38" height="70" rx="6" fill="#fff" opacity=".6"/><rect x="162" y="110" width="38" height="100" rx="6" fill="#fff" opacity=".8"/><rect x="214" y="80" width="38" height="130" rx="6" fill="#fff"/><rect x="266" y="50" width="38" height="160" rx="6" fill="#f4c869"/><path d="M110 120 L170 90 L230 62 L290 32" stroke="#5eead4" stroke-width="5" fill="none" stroke-linecap="round"/>
+</svg>

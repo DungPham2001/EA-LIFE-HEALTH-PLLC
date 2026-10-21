@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 480" role="img" aria-label="Family protected under an umbrella with growth chart">
+<defs>
+<linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f766e"/><stop offset="1" stop-color="#0b2545"/></linearGradient>
+<linearGradient id="g2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f4c869"/><stop offset="1" stop-color="#d99a2b"/></linearGradient>
+</defs>
+<rect x="20" y="20" width="560" height="440" rx="36" fill="url(#g1)"/>
+<circle cx="480" cy="110" r="70" fill="#ffffff" opacity=".07"/>
+<circle cx="90" cy="400" r="90" fill="#ffffff" opacity=".06"/>
+<g transform="translate(60 250)">
+<rect x="0" y="120" width="34" height="60" rx="6" fill="#ffffff" opacity=".35"/>
+<rect x="52" y="90" width="34" height="90" rx="6" fill="#ffffff" opacity=".5"/>
+<rect x="104" y="55" width="34" height="125" rx="6" fill="#ffffff" opacity=".7"/>
+<rect x="156" y="15" width="34" height="165" rx="6" fill="url(#g2)"/>
+<path d="M0 100 L52 70 L104 45 L156 0" stroke="#f4c869" stroke-width="5" fill="none" stroke-linecap="round" stroke-dasharray="2 12"/>
+</g>
+<path d="M330 215 a130 130 0 0 1 260 0z" fill="url(#g2)" transform="translate(-30 -20)"/>
+<path d="M300 195 q0 0 0 0" />
+<rect x="297" y="195" width="6" height="150" rx="3" fill="#fff" transform="translate(-0 0)"/>
+<path d="M300 345 q0 22 -22 22" stroke="#fff" stroke-width="6" fill="none" stroke-linecap="round"/>
+<g transform="translate(330 300)">
+<circle cx="30" cy="20" r="22" fill="#fde7c3"/><rect x="5" y="46" width="50" height="80" rx="20" fill="#ffffff"/>
+<circle cx="100" cy="40" r="17" fill="#fde7c3"/><rect x="80" y="62" width="40" height="64" rx="16" fill="#f4c869"/>
+<circle cx="150" cy="58" r="13" fill="#fde7c3"/><rect x="135" y="76" width="30" height="50" rx="12" fill="#5eead4"/>
+</g>
+<rect x="60" y="60" width="150" height="56" rx="14" fill="#fff"/>
+<rect x="76" y="76" width="70" height="8" rx="4" fill="#0b2545"/><rect x="76" y="92" width="100" height="8" rx="4" fill="#0f766e" opacity=".5"/>
+<circle cx="190" cy="88" r="0" fill="none"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" role="img" aria-label="Life insurance">
+<defs><linearGradient id="s" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b2545"/><stop offset="1" stop-color="#134074"/></linearGradient></defs>
+<rect width="400" height="260" fill="url(#s)"/>
+<circle cx="340" cy="40" r="80" fill="#fff" opacity=".08"/><circle cx="40" cy="240" r="90" fill="#fff" opacity=".07"/>
+<path d="M200 60 l80 30 v60 c0 45 -35 70 -80 90 c-45 -20 -80 -45 -80 -90 v-60z" fill="#fff"/><path d="M200 80 l60 22 v48 c0 32 -25 52 -60 68 c-35 -16 -60 -36 -60 -68 v-48z" fill="#f4c869"/><path d="M172 150 l20 20 l38 -42" stroke="#0b2545" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
